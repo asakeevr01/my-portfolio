@@ -5,8 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Asakeev Rinat Timurovich</title>
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
-
 </head>
     <body style="background-color: blue;"></body>
     <h1 align="center">Asakeev Rinat Timurovich</h1>
