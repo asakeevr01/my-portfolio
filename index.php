@@ -16,7 +16,7 @@
 			<input type="password" name="password">
 			<div id="pass_error">Please fill up your Password</div>
 			<button type="66"> Login</button>
-		</form>
+	    </form>
 	</div>	
 	
 </body>
